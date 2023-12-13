@@ -21,3 +21,20 @@ I used [elephantSQL](https://www.elephantsql.com/) to create a free movie_theatr
 I created each table in the right order in able to link them together. The .sql script I used is saved and inside this repository.
 
 Once I was able to view my database, I started populating my tables. I used [RNDGEN](https://www.rndgen.com/data-generator) to populate some of my data. Otherwise I manualy created some fake data.
+
+
+<i>Here's a little preview of my database:<i/>
+<img width="1398" alt="Screenshot 2023-12-12 at 4 13 51 PM" src="https://github.com/BeBolt09/SQL-HW-2/assets/113645665/b6eacc4d-238b-49bf-b534-8e6951b3ddb8">
+
+<img width="1398" alt="Screenshot 2023-12-12 at 4 14 15 PM" src="https://github.com/BeBolt09/SQL-HW-2/assets/113645665/fe794004-adda-4844-a5a1-935f036f514a">
+
+<img width="1398" alt="Screenshot 2023-12-12 at 4 14 33 PM" src="https://github.com/BeBolt09/SQL-HW-2/assets/113645665/6f6ef3b8-a294-4fa7-93f6-6cec1aa42085">
+
+<img width="1398" alt="Screenshot 2023-12-12 at 4 14 51 PM" src="https://github.com/BeBolt09/SQL-HW-2/assets/113645665/6858c71f-2ff6-405c-a294-caf93e7e7edc">
+
+<img width="1398" alt="Screenshot 2023-12-12 at 4 15 12 PM" src="https://github.com/BeBolt09/SQL-HW-2/assets/113645665/73f5fb53-1aed-4113-b0d3-36e3bc0ca07d">
+
+<img width="1398" alt="Screenshot 2023-12-12 at 4 15 40 PM" src="https://github.com/BeBolt09/SQL-HW-2/assets/113645665/e0721504-beb1-4bca-9658-e2ccff69d190">
+
+<img width="1398" alt="Screenshot 2023-12-12 at 4 15 58 PM" src="https://github.com/BeBolt09/SQL-HW-2/assets/113645665/2bb6ea5a-51c6-45f5-9026-93a39c2f6480">
+
